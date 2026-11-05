@@ -22,7 +22,7 @@ function kermesseNews(){return `<article class="refuge-event" id="kermesse-novem
 function newsSharing(){return `<div class="news-sharing"><details class="share-picker"><summary class="button">Partager</summary><div class="share-actions" aria-label="Choisir le mode de partage"><a class="button secondary" data-share="facebook" target="_blank" rel="noopener noreferrer">Facebook ↗</a><a class="button secondary" data-share="whatsapp" target="_blank" rel="noopener noreferrer">WhatsApp ↗</a><button type="button" class="button secondary" data-share="instagram">Instagram</button><button type="button" class="button secondary" data-share="copy">Copier le lien</button></div></details><p class="share-feedback" role="status" aria-live="polite"></p></div>`}
 function bindNewsSharing(){
  const box=main.querySelector('.news-sharing');if(!box)return;
- const url='https://marinaglvsf.github.io/edc-13.github.io/nouveau-site/#actualite';
+ const url='https://ecole-du-chat-phoceenne.github.io/#actualite';
  const text='Venez à la grande vente au profit des chats de l’École du Chat Phocéenne : de 10 h à 18 h, Centre municipal d’animation, 194 rue Charles Kaddouz, Marseille, le dimanche 22 novembre 2026.';
  box.querySelector('[data-share="facebook"]').href='https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(url);
  box.querySelector('[data-share="whatsapp"]').href='https://wa.me/?text='+encodeURIComponent(text+' '+url);
