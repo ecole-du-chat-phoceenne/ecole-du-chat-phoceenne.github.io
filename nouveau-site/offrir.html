@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Offrir au refuge - Les besoins | L’École du Chat Phocéenne</title>
+  <link rel="stylesheet" href="style.css?v=e55f64e396d5">
+  <script defer src="offrir.js"></script>
+  <style>
+    .gifts { max-width: 820px; }
+    .gifts section { margin-top: 28px; }
+    .delivery { background: var(--sky); padding: 20px 24px; border-radius: 18px; min-height: 130px; }
+    .delivery-heading { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 16px; margin-bottom: 8px; }
+    .delivery-heading h2 { font-size: 25px; margin: 0; }
+    .delivery-heading button { white-space: nowrap; }
+    .delivery address { font-style: normal; }
+    #gift-groups h2 { font-size: 27px; margin: 22px 0 10px; }
+    .gift-list { list-style: none; padding: 0; }
+    .gift-list li { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+      gap: 10px 20px; background: white; border: 1px solid #d4e4eb; border-radius: 14px;
+      padding: 14px 18px; margin-bottom: 10px; overflow-wrap: anywhere; }
+    #copy-status:not(:empty) { display: block; margin-top: 4px; }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="./" aria-label="Accueil de l’École du Chat Phocéenne">
+      <img class="banner" src="assets/banniere.png" alt="L’École du Chat Phocéenne">
+    </a>
+  </header>
+  <main class="gifts">
+    <a href="./#association">← Retour au site de l’association</a>
+    <h1>Offrir au refuge - Les besoins</h1>
+    <p>Choisissez un article, puis faites-le livrer à l’adresse du refuge ou déposez-le directement sur place.</p>
+    <section aria-labelledby="delivery-title" class="delivery">
+      <div class="delivery-heading">
+        <h2 id="delivery-title">Adresse de livraison</h2>
+        <button type="button" class="button secondary" id="copy-address" hidden>Copier l’adresse</button>
+      </div>
+      <address id="delivery-address">L’École du Chat Phocéenne, 87 chemin de la Salette, La Valentine, 13011 Marseille</address>
+      <span id="copy-status" role="status"></span>
+    </section>
+    <section id="gift-section" aria-label="Produits à offrir">
+      <p id="gift-status" role="status">La sélection détaillée sera ajoutée prochainement.</p>
+      <div id="gift-groups"></div>
+    </section>
+  </main>
+</body>
+</html>

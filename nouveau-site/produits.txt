@@ -1,0 +1,13 @@
+# Une ligne par produit : Nom et format | Boutique | Lien HTTPS | Croquettes ou Sachets (facultatif)
+Purina Pro Plan Veterinary Diets HA ST/OX Hypoallergenic | Zooplus | https://www.zooplus.fr/shop/chats/croquettes_chat/purina_veterinary_diets/588577 | Croquettes
+Concept for Life Veterinary Diet Renal (croquettes) | Zooplus | https://www.zooplus.fr/shop/chats/croquettes_chat/croquettes_concept_for_life_veterinary_diet/reins_chat/791746 | Croquettes
+Felix Tendres Effilés Junior, 24 × 85 g | Zooplus | https://www.zooplus.fr/shop/chats/boites_sachets_barquettes_chat/felix_boites_chat/tendres_effiles/577541 | Sachets
+Jumbopack Felix, 120 sachets | Zooplus | https://www.zooplus.fr/shop/chats/boites_sachets_barquettes_chat/felix_boites_chat/2690508 | Sachets
+Felix Aussi bon que beau, Tendres Effilés, 44 × 85 g | Zooplus | https://www.zooplus.fr/shop/chats/boites_sachets_barquettes_chat/felix_boites_chat/tendres_effiles/397513 | Sachets
+Purina ONE Junior au poulet, 1 à 12 mois | Zooplus | https://www.zooplus.fr/shop/chats/croquettes_chat/purina_one_croquettes_chat/purina_one_junior/195592 | Croquettes
+Royal Canin Kitten Mousse | Zooplus | https://www.zooplus.fr/shop/chats/boites_sachets_barquettes_chat/royal_canin_boites_chat/royal_canin_sachet_chaton/658779 | Sachets
+Concept for Life Veterinary Diet Gastro Intestinal (sachets) | Zooplus | https://www.zooplus.fr/shop/chats/boites_sachets_barquettes_chat/concept_for_life_veterinary_diet/gastro_intestinal/1783718 | Sachets
+Felix Émincés Original en gelée, 24 × 85 g | Zooplus | https://www.zooplus.fr/shop/chats/boites_sachets_barquettes_chat/felix_boites_chat/felix_sachets_chat/1855868 | Sachets
+Concept for Life Veterinary Diet Gastrointestinal (croquettes) | Zooplus | https://www.zooplus.fr/shop/chats/croquettes_chat/croquettes_concept_for_life_veterinary_diet/troubles_intestinaux_chat/791691 | Croquettes
+Hill’s Science Plan Senior 11+ au poulet | Zooplus | https://www.zooplus.fr/shop/chats/croquettes_chat/hills_feline_croquettes_chat/hills_feline_senior_croquettes_chat/405088 | Croquettes
+Mégapack Felix Tendres Effilés en gelée, 132 × 85 g | Zooplus | https://www.zooplus.fr/shop/chats/boites_sachets_barquettes_chat/felix_boites_chat/tendres_effiles/877791 | Sachets
